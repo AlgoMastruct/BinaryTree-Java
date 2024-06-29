@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 public class Tree {
     private TreeNode root;
 
@@ -51,6 +53,23 @@ public class Tree {
             postorder(p.left);
             postorder(p.right);
             System.out.println(p.data);
+        }
+    }
+
+    public void nonRecursiveInorder() {
+        java.util.Stack<TreeNode> s = new Stack<>();
+        TreeNode p = root;
+        while (true) {
+            while (p != null) {
+                s.push(p);
+                p = p.left;
+            }
+            if (s.isEmpty()) {
+                return;
+            }
+            p = s.pop();
+            System.out.println(p.data + " ");
+            p = p.right;
         }
     }
 }
