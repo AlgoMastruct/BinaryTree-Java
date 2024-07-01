@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="07646c69-a20c-483d-a9cf-eaf8f229ce82" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <workItem from="1719332253767" duration="96000" />
       <workItem from="1719332431459" duration="6000" />
       <workItem from="1719584423333" duration="1987000" />
-      <workItem from="1719691806656" duration="9912000" />
+      <workItem from="1719691806656" duration="12627000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="initialize project">
       <option name="closed" value="true" />
@@ -101,7 +99,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۵" />
       <updated>1719692435451</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL‎−۰۰۰۰۶" summary="add some Tree class's method">
+      <option name="closed" value="true" />
+      <created>1719773359415</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۶" />
+      <updated>1719773359415</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +118,7 @@
     <MESSAGE value="create Tree class" />
     <MESSAGE value="create default constructor" />
     <MESSAGE value="add nonRecursiveInorder method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add nonRecursiveInorder method" />
+    <MESSAGE value="add some Tree class's method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some Tree class's method" />
   </component>
 </project>
