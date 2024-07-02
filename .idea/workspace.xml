@@ -62,7 +62,7 @@
       <workItem from="1719332253767" duration="96000" />
       <workItem from="1719332431459" duration="6000" />
       <workItem from="1719584423333" duration="1987000" />
-      <workItem from="1719691806656" duration="12627000" />
+      <workItem from="1719691806656" duration="13861000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="initialize project">
       <option name="closed" value="true" />
@@ -106,7 +106,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۶" />
       <updated>1719773359415</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎−۰۰۰۰۷" summary="change workspace.xml file">
+      <option name="closed" value="true" />
+      <created>1719862665160</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۷" />
+      <updated>1719862665160</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +126,7 @@
     <MESSAGE value="create default constructor" />
     <MESSAGE value="add nonRecursiveInorder method" />
     <MESSAGE value="add some Tree class's method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some Tree class's method" />
+    <MESSAGE value="change workspace.xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="change workspace.xml file" />
   </component>
 </project>
