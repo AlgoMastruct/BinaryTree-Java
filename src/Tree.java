@@ -271,7 +271,6 @@ public class Tree {
         printSideways(root, " ");
     }
 
-
     private void printSideways(TreeNode p, String indent) {
         if (p != null) {
             printSideways(p.right, indent + "    ");
