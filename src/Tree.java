@@ -303,4 +303,18 @@ public class Tree {
         }
         return count + countOfEvenNodes(p.left) + countOfEvenNodes(p.right);
     }
+
+    public int countOfLeaves() {
+        return countOfLeaves(root);
+    }
+
+    private int countOfLeaves(TreeNode p) {
+        if (p == null) {
+            return 0;
+        }
+        if (p.left == null && p.right == null) {
+            return 1;
+        }
+        return countOfLeaves(p.left) + countOfLeaves(p.right);
+    }
 }

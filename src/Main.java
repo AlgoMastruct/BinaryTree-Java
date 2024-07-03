@@ -8,7 +8,8 @@ public class Main {
 //        s.printSideways();
 //        System.out.println(s.isLeftSkewedTree());
 //        System.out.println(s.isBalanced());
-        System.out.println(s.countOfEvenNodes());
+//        System.out.println(s.countOfEvenNodes());
 //        s.levelOrder();
+        System.out.println(s.countOfLeaves());
     }
 }

@@ -64,7 +64,7 @@
       <workItem from="1719332253767" duration="96000" />
       <workItem from="1719332431459" duration="6000" />
       <workItem from="1719584423333" duration="1987000" />
-      <workItem from="1719691806656" duration="29023000" />
+      <workItem from="1719691806656" duration="31512000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="initialize project">
       <option name="closed" value="true" />
@@ -136,7 +136,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۱۰" />
       <updated>1720037535858</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL‎−۰۰۰۱۱" summary="add countOfEvenNodes method as recursive method">
+      <option name="closed" value="true" />
+      <created>1720041493790</created>
+      <option name="number" value="LOCAL‎−۰۰۰۱۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۱۱" />
+      <updated>1720041493790</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +160,7 @@
     <MESSAGE value="add space" />
     <MESSAGE value="remove redundant space" />
     <MESSAGE value="add isLeftSkewedTree method and refactor some codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add isLeftSkewedTree method and refactor some codes" />
+    <MESSAGE value="add countOfEvenNodes method as recursive method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add countOfEvenNodes method as recursive method" />
   </component>
 </project>
