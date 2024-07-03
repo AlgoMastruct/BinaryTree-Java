@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="07646c69-a20c-483d-a9cf-eaf8f229ce82" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
       <workItem from="1719332253767" duration="96000" />
       <workItem from="1719332431459" duration="6000" />
       <workItem from="1719584423333" duration="1987000" />
-      <workItem from="1719691806656" duration="13861000" />
+      <workItem from="1719691806656" duration="25056000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="initialize project">
       <option name="closed" value="true" />
@@ -113,7 +115,21 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۷" />
       <updated>1719862665160</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL‎−۰۰۰۰۸" summary="add space">
+      <option name="closed" value="true" />
+      <created>1719950392943</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۸" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۸" />
+      <updated>1719950392943</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۹" summary="remove redundant space">
+      <option name="closed" value="true" />
+      <created>1719950567915</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۹" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۹" />
+      <updated>1719950567915</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +143,8 @@
     <MESSAGE value="add nonRecursiveInorder method" />
     <MESSAGE value="add some Tree class's method" />
     <MESSAGE value="change workspace.xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="change workspace.xml file" />
+    <MESSAGE value="add space" />
+    <MESSAGE value="remove redundant space" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove redundant space" />
   </component>
 </project>

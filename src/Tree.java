@@ -162,15 +162,11 @@ public class Tree {
         if (first == null && second == null) {
             return true;
         }
-        if (first != null
+        return first != null
                 && second != null
                 && first.data == second.data
                 && equals(first.left, second.left)
-                && equals(first.right, second.right)
-        ) {
-            return true;
-        }
-        return false;
+                && equals(first.right, second.right);
     }
 
     public boolean isFull() {
@@ -277,5 +273,19 @@ public class Tree {
             System.out.println(indent + p.data);
             printSideways(p.left, indent + "    ");
         }
+    }
+
+    public boolean isLeftSkewedTree() {
+        return isLeftSkewedTree(root);
+    }
+
+    private boolean isLeftSkewedTree(TreeNode p) {
+        if (p != null) {
+            if (p.right != null) {
+                return false;
+            }
+            return isLeftSkewedTree(p.left);
+        }
+        return true;
     }
 }
