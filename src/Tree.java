@@ -288,4 +288,19 @@ public class Tree {
         }
         return true;
     }
+
+    public int countOfEvenNodes() {
+        return countOfEvenNodes(root);
+    }
+
+    private int countOfEvenNodes(TreeNode p) {
+        if (p == null) {
+            return 0;
+        }
+        int count = 0;
+        if (p.left != null) {
+            count++;
+        }
+        return count + countOfEvenNodes(p.left) + countOfEvenNodes(p.right);
+    }
 }

@@ -64,7 +64,7 @@
       <workItem from="1719332253767" duration="96000" />
       <workItem from="1719332431459" duration="6000" />
       <workItem from="1719584423333" duration="1987000" />
-      <workItem from="1719691806656" duration="25056000" />
+      <workItem from="1719691806656" duration="29023000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="initialize project">
       <option name="closed" value="true" />
@@ -129,7 +129,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۹" />
       <updated>1719950567915</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL‎−۰۰۰۱۰" summary="add isLeftSkewedTree method and refactor some codes">
+      <option name="closed" value="true" />
+      <created>1720037535858</created>
+      <option name="number" value="LOCAL‎−۰۰۰۱۰" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۱۰" />
+      <updated>1720037535858</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +152,7 @@
     <MESSAGE value="change workspace.xml file" />
     <MESSAGE value="add space" />
     <MESSAGE value="remove redundant space" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove redundant space" />
+    <MESSAGE value="add isLeftSkewedTree method and refactor some codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add isLeftSkewedTree method and refactor some codes" />
   </component>
 </project>
