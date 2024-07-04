@@ -10,6 +10,7 @@ public class Main {
 //        System.out.println(s.isBalanced());
 //        System.out.println(s.countOfEvenNodes());
 //        s.levelOrder();
-        System.out.println(s.countOfLeaves());
+//        System.out.println(s.countOfLeaves());
+        System.out.println(s.countOfNonLeaveNodes());
     }
 }

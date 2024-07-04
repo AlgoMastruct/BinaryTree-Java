@@ -317,4 +317,19 @@ public class Tree {
         }
         return countOfLeaves(p.left) + countOfLeaves(p.right);
     }
+
+    public int countOfNonLeaveNodes() {
+        return countOfNonLeaveNodes(root);
+    }
+
+    private int countOfNonLeaveNodes(TreeNode p) {
+        if (p == null) {
+            return 0;
+        }
+        int count = 0;
+        if (p.left != null || p.right != null) {
+            count++;
+        }
+        return count + countOfNonLeaveNodes(p.left) + countOfNonLeaveNodes(p.right);
+    }
 }
